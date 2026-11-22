@@ -36,6 +36,6 @@
 ## Related documents
 
 - Sprint goal: [`SPRINT_GOAL.md`](SPRINT_GOAL.md)
-- Kanban board: [`KANBAN_BOARD.md`](KANBAN_BOARD.md)
+- Kanban board: [`KANBAN_BOARD.png`](KANBAN_BOARD.png)
 - Project risks and mitigation: [`PROJECT_RISKS.md`](PROJECT_RISKS.md)
 - Retrospective: [`RETROSPECTIVE.md`](RETROSPECTIVE.md)
