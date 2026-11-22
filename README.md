@@ -7,6 +7,7 @@
 This repository holds our team's complete analytics workflow, from loading and cleaning the Netflix dataset to exploratory analysis, visualizations and findings. It also contains the project management documents: the project plan, sprint goal, Kanban board, risks and retrospective.
 
 **Repository:** https://github.com/Simprabh/Netflix-Content-Evolution
+
 **Kanban board (GitHub Projects):** https://github.com/Simprabh/Netflix-Content-Evolution/projects
 
 ---
