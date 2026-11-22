@@ -180,6 +180,6 @@ Snapshot of the board:
 - [x] Key findings and conclusions
 - [x] Version control on GitHub
 - [x] Project plan, sprint goal, Kanban board, risks and retrospective
-- [ ] All notebooks executed top to bottom without errors or warnings
-- [ ] HTML/PDF export of the final notebook
-- [ ] Screenshot of the final executed notebook
+- [x] All notebooks executed top to bottom without errors or warnings
+- [x] HTML/PDF export of the final notebook
+- [x] Screenshot of the final executed notebook
