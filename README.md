@@ -31,6 +31,8 @@ Details: [`docs/SPRINT_GOAL.md`](docs/SPRINT_GOAL.md)
 
 ## Repository structure
 
+## Repository structure
+
 ```
 Netflix-Content-Evolution/
 ├── data/
@@ -43,12 +45,14 @@ Netflix-Content-Evolution/
 │   ├── SPRINT_GOAL.md                      # sprint goal and definition of done
 │   ├── PROJECT_RISKS.md                    # two project risks and mitigation actions
 │   ├── RETROSPECTIVE.md                    # sprint retrospective
-│   ├── data_cleaning_report.md             # data cleaning summary
-│   └── Kanban board.png                    # snapshot of the GitHub Projects board (live board: Projects tab)
+│   ├── Kanban board.png                    # snapshot of the GitHub Projects board
+│   ├── data_inspection_cleaning.html       # exported cleaning notebook
+│   ├── Netflix_EDA_Analysis.html           # exported EDA notebook
+│   └── Screenshots.pdf                     # screenshots of the executed notebook
 ├── notebooks/
 │   ├── datainspection_cleaning.ipynb       # 1. inspection and cleaning (Sandesh Malla)
 │   └── Netflix_EDA_Analysis.ipynb          # 2. EDA, statistics and trends (Apoorva Kulkarni)
-├── visualizations/                         # charts saved automatically by the EDA notebook
+├── visualizations/                         # 11 charts saved by the EDA notebook
 └── README.md
 ```
 
